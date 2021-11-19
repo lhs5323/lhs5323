@@ -1,6 +1,7 @@
 ### Love to delving into the software world 👋
 
 [![Cirly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs5323&theme=radical)](https://github.com/lhs5323/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs5323&theme=radical)](https://github.com/lhs5323/github-readme-stats)
 
 
 <!--
