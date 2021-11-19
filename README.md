@@ -1,4 +1,7 @@
-### Hi there 👋
+### Love to delving into the software world 👋
+
+[![Cirly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs5323)](https://github.com/lhs5323/github-readme-stats)
+
 
 <!--
 **lhs5323/lhs5323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
